@@ -1,0 +1,28 @@
+# Virtual Environment
+venv311/
+
+# Dataset (too large for GitHub)
+model/dataset/
+
+# Trained model file (too large for GitHub)
+model/cats_vs_dogs.h5
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
